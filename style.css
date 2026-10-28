@@ -108,3 +108,18 @@ blockquote {
         font-size: 21px;
     }
 }
+.copy-button {
+    padding: 14px 30px;
+    margin-left: 8px;
+    border: 2px solid #6478d3;
+    border-radius: 30px;
+    background-color: white;
+    color: #6478d3;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.copy-button:hover {
+    background-color: #eef0ff;
+}
